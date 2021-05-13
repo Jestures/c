@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
+pystan
 plotly
 yfinance
 yahoo-fin
 datetime
+prophet
 fbprophet
