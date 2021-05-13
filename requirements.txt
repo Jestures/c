@@ -2,6 +2,8 @@ streamlit
 pandas
 numpy
 pystan
+conda 
+ephem
 plotly
 twisted
 yfinance
@@ -9,4 +11,3 @@ yahoo-fin
 datetime
 prophet
 fbprophet
-g++
