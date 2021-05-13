@@ -3,6 +3,7 @@ pandas
 numpy
 pystan
 plotly
+twisted
 yfinance
 yahoo-fin
 datetime
