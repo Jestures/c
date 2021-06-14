@@ -9,7 +9,7 @@ from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
 
 
-st.set_page_config(page_title='Stock Prediction using ML', page_icon=' ')
+st.set_page_config(page_title='Stock Prediction using ML', page_icon=' :smiley: ')
 
 def main():
 
