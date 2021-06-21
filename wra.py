@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import date
-from yahoo_finance import Share as sh
 from yahoo_fin import stock_info as si
 import yfinance as yf
 from fbprophet import Prophet
